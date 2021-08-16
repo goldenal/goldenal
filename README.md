@@ -1,7 +1,7 @@
  Hello, I am Adewale 👋! A  mobile software enginner with reasonable experience building mobile applications using native java and flutter technology for cross platform solutions. I have a passion for creating efficient customer-centric software solutions to complex problems. I find solving real-world challenges exciting.  I am always interested in solving problems regardless of industry.\
  
  
-- 🔭 I’m currently a mobile platform where registered users can view and respond to local job offers.
+- 🔭 I’m currently a mobile platform where registered users can view and respond to local job offers(like handyman pro).
 - 🌱 I’m currently learning kotlin, algorithms and data structures
 - 👯 I’m looking to collaborate on any mobile software project.
 - 🤔 I’m looking for help with advanced Data structures and Algorithms.
