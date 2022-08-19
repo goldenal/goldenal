@@ -2,7 +2,7 @@
  
  
 - 🔭 I’m currently building a mobile platform where registered users can view and respond to local job offers(like handyman pro).
-- 🌱 I’m currently learning kotlin, algorithms and data structures
+- 🌱 I’m currently learning algorithms and data structures
 - 👯 I’m looking to collaborate on any mobile software project.
 - 🤔 I’m looking for help with advanced Data structures and Algorithms.
 - 📫 How to reach me: Contact me via adeosunadewale86@gmail.com
