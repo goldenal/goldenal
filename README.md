@@ -1,8 +1,7 @@
- Hello, I am Adewale 👋! A  mobile software enginner with reasonable experience building mobile applications using native java and flutter technology for cross platform solutions. I have a passion for creating efficient customer-centric software solutions to complex problems. I find solving real-world challenges exciting.  I am always interested in solving problems regardless of industry.\
+ Hello, I am Adewale 👋! I'm a Senior Flutter Developer passionate about crafting user-centric mobile applications that drive sales and revenue growth. Beyond writing clean code, I focus on optimizing user flows and experiences to maximize user engagement and conversion.\
  
  
-- 🔭 I’m currently building a mobile platform where registered users can view and respond to local job offers(like handyman pro).
-- 🌱 I’m currently learning algorithms and data structures
+
 - 👯 I’m looking to collaborate on any mobile software project.
 - 📫 How to reach me: Contact me via adeosunadewale86@gmail.com
 
