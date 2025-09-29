@@ -1,8 +1,12 @@
- Hello, I am Adewale 👋! I'm a Senior Flutter Developer passionate about crafting user-centric mobile applications that drive sales and revenue growth. Beyond writing clean code, I focus on optimizing user flows and experiences to maximize user engagement and conversion.\
- 
- 
+ Hello, I am Adewale 👋!I’m a results-driven engineer passionate about building scalable, user-centric products that deliver measurable growth and impact.
 
-- 👯 I’m looking to collaborate on any mobile software project.
+At Vesti, I led the mobile engineering team and scaled the app from 5,000 to 1M+ downloads in 3 years, driving innovation in fintech security, scalability, and user experience. My focus goes beyond writing clean code—I specialize in optimizing user journeys, integrating backend systems, and delivering products that boost engagement, retention, and revenue.
+
+With expertise across Flutter, NestJS, Node.js, and Python, I design and deploy robust backend architectures, APIs, and real-time systems that seamlessly power mobile experiences. This end-to-end skill set enables me to bridge the gap between mobile and backend, ensuring products are both delightful and resilient.
+
+I thrive in fast-paced, cross-functional environments, where I bring a mix of technical leadership, mentoring, and problem-solving to deliver high-impact software at scale.\
+ 
+ 
 - 📫 How to reach me: Contact me via adeosunadewale86@gmail.com
 
 <!--
